@@ -89,7 +89,7 @@ Includes:
 ## 💾 Model Saving
 
 ```python
-model.save("breast_cancer_cnn_model.h5")
+model.save("breast_cancer_cnn_model.keras")
 ```
 
 ---
