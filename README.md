@@ -9,7 +9,7 @@ This work has been **peer-reviewed and published** in the **Journal of Emerging 
 ## 📚 Research Publication
 
 > **Title**: *Breast Cancer Classification and Detection using Deep Learning*  
-> **Authors**: Sunidhi Jain, Kajal Patil, Komal Bhadane, Poonam Jadhav  
+> **Authors**: Sunidhi Jain, Poonam Jadhav, Kajal Patil, Komal Bhadane
 > **Published in**: [JETIR, May 2023, Volume 10 Issue 5](https://www.jetir.org/view?paper=JETIR2305636)  
 > **ISSN**: 2349-5162 | UGC Approved Journal No: 63975  
 > **Paper ID**: JETIR2305636
