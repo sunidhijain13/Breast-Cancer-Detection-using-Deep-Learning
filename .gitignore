@@ -1,0 +1,10 @@
+*.h5
+*.keras
+*.zip
+*.csv
+*.json
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+data/
